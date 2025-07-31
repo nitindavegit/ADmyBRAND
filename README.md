@@ -21,6 +21,12 @@
   <i>Built with Next.js, React, TypeScript, and Tailwind CSS. Easily deployable on Netlify.</i>
 </p>
 
+<p align="center">
+  <a href="https://adbmybrand.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-adbmybrand.netlify.app-brightgreen?style=for-the-badge" alt="Live Website" />
+  </a>
+</p>
+
 ---
 
 ## ✨ Features
@@ -76,8 +82,8 @@ ADmyBRAND/
 ### Installation
 ```bash
 # Clone the repo
-https://github.com/your-username/admybrand.git
-cd admybrand
+https://github.com/nitindavegit/ADmyBRAND
+cd ADmyBRAND
 
 # Install dependencies
 npm install
@@ -134,5 +140,10 @@ npm start
 
 ---
 
-## 📬 Contact
-For questions or support, open an issue or contact the maintainer.
+## 🌐 Links & Contact
+
+- 🚀 **Live Website:** [adbmybrand.netlify.app](https://adbmybrand.netlify.app/)
+- 💻 **GitHub Repo:** [github.com/nitindavegit/ADmyBRAND](https://github.com/nitindavegit/ADmyBRAND)
+- 🐦 **Twitter:** [@NitinDave77](https://x.com/NitinDave77)
+
+For questions or support, open an issue or contact the maintainer on [Twitter](https://x.com/NitinDave77).
